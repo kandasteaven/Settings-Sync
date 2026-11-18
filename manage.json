@@ -1,4 +1,32 @@
 {
-  "picBed": {},
-  "settings": {}
+  "picBed": {
+    "Cloudflare": {
+      "alias": "Cloudflare",
+      "accessKeyId": "ca4b4133b066008c95a5abfc8a33210f",
+      "secretAccessKey": "678271c80e09da2bca489007bda34c0e4f5eb63538938e7e73f14e731e26d953",
+      "endpoint": "https://6e5d53ffd74ef4b89dc7e88d85a9a09c.r2.cloudflarestorage.com",
+      "region": "auto",
+      "customUrl": "https://pub-2015bfc3ae794d7ebeec24be1f574538.r2.dev",
+      "sslEnabled": true,
+      "s3ForcePathStyle": false,
+      "proxy": "",
+      "aclForUpload": "auto",
+      "bucketName": "lisonu-img",
+      "baseDir": "/",
+      "dogeCloudSupport": false,
+      "paging": true,
+      "itemsPerPage": 50,
+      "customPasteFormat": "",
+      "picBedName": "s3plist",
+      "transformedConfig": "{\"lisonu-img\":{\"baseDir\":\"/\",\"area\":\"\",\"customUrl\":\"https://pub-2015bfc3ae794d7ebeec24be1f574538.r2.dev\",\"operator\":\"\",\"password\":\"\"}}"
+    }
+  },
+  "settings": {
+    "isAutoRefresh": true,
+    "isShowThumbnail": true,
+    "thumbnailSuffix": "",
+    "isDownloadFileKeepDirStructure": false,
+    "pasteFormat": "rawurl",
+    "isEncodeUrl": false
+  }
 }
